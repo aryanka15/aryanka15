@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Aryan Karani
 
+![Static Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)
+
+
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanka15)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **aryanka15/aryanka15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
