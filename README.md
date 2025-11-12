@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/aryan-karani/">
       <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
     </a>
+    <a href="https://aryan-karani.vercel.app">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Blog%20%2B%20Photos-gray?style=for-the-badge">
+    </a>
   </div>
   <h1>Hey there, I'm Aryan Karani 👋</h1>
 </div>
@@ -18,6 +21,12 @@
   <li>🏏: Cricket. I'm not great at playing it (although I can), but watching it is fun.</li>
   <li>🏈: Football. Just watching it. I don't want a concussion.</li>
   <li>🎵: Music. How could I forget music? I'm a 90's Bollywood kinda music person. And I play the piano and viola. 🎹 🎻</li>
+</ul>
+
+## Project Repos
+<ul>
+  <li><a href="https://github.com/a4rsh/ece362-project">Tilt-Control Racing Game in C/C++ with RP2350B MCU (Final Group Project)</a></li>
+  <li><a href="https://github.com/aryanka15/aryankarani-next" >Personal Blog and Photography (Next.js)</a></li>
 </ul>
 
 ## Tools
