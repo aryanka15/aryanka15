@@ -25,6 +25,7 @@
 
 ## Project Repos
 <ul>
+  <li><a href="https://github.com/aryanka15/FPGA_Image_Processor">FPGA Image Convolution Accelerator</a></li>
   <li><a href="https://github.com/a4rsh/ece362-project">Tilt-Control Racing Game in C/C++ with RP2350B MCU (Final Group Project)</a></li>
   <li><a href="https://github.com/aryanka15/aryankarani-next" >Personal Blog and Photography (Next.js)</a></li>
 </ul>
