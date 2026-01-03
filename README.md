@@ -58,5 +58,3 @@
 </div>
 
 ### Of course, I'm always learning about everything. 
-
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanka15)](https://github.com/anuraghazra/github-readme-stats)
